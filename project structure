@@ -1,0 +1,10 @@
+guess-the-number-java/
+│
+├── src/
+│   └── GuessNumber.java
+│
+├── README.md
+├── .gitignore
+├── LICENSE
+├── CONTRIBUTING.md   (optional)
+└── CHANGELOG.md      (optional)
